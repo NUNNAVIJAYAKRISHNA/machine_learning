@@ -320,7 +320,7 @@ Computer Science Engineering Student | ML & AI Enthusiast
 
 For questions or collaboration inquiries:
 - Open an issue on GitHub
-- Email: [your-email]
+- Email: [vijayakrishna.n213@gmail.com]
 
 ---
 
