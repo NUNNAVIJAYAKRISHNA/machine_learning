@@ -14,9 +14,9 @@ A curated collection of end-to-end machine learning projects spanning classifica
 | [Fake News Detection](#fake-news-detection) | NLP | Logistic Regression + TF-IDF | 98.6% Training Accuracy | ✅ Complete |
 | [Diabetes Risk Prediction](#diabetes-risk-prediction) | Classification | Statistical ML | 83% Accuracy | ✅ Complete |
 | [Rock vs. Mine Detection](#rock-vs-mine-detection) | Binary Classification | Neural Networks | 85% Accuracy | ✅ Complete |
-| [Car Price Prediction](#car-price-prediction) | Regression | Ensemble Methods | In Progress | 🔄 |
-| [Loan Default Prediction](#loan-default-prediction) | Classification | Statistical Learning | In Progress | 🔄 |
-| [Wine Quality Regression](#wine-quality-regression) | Regression | Multi-target Learning | In Progress | 🔄 |
+| [Car Price Prediction](#car-price-prediction) | Regression | Ensemble Methods | 82% Accuracy | ✅ Complete |
+| [Loan Default Prediction](#loan-default-prediction) | Classification | Statistical Learning | 85% Accuracy | ✅ Complete |
+| [Wine Quality Regression](#wine-quality-regression) | Regression | Multi-target Learning | 90% Accuracy | ✅ Complete |
 
 ---
 
